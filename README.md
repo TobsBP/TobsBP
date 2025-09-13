@@ -30,7 +30,7 @@
     <img align="center" alt="TobsBP-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
   </a>
   <a href="https://reactnative.dev" target="_blank">
-    <img align="center" alt="TobsBP-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/react.svg">
+    <img align="center" alt="TobsBP-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img align="center" alt="TobsBP-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
