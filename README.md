@@ -36,7 +36,7 @@
     <img align="center" alt="TobsBP-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
-    <img  align="center" alt="TobsBP-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+    <img  align="center" alt="TobsBP-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   </a>
 </div>
 <hr>
