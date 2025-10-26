@@ -1,4 +1,4 @@
-<h2>- 👋 Oi, sou @TobsBP, sou programador, graduando em Engenharia de Software no Instituto Nacional de Telecomunicações, Inatel </h2>
+<h2>- 👋 Oi, sou Tobias, sou programador, graduando em Engenharia de Software no Instituto Nacional de Telecomunicações, Inatel </h2>
 
 <h3>Conhecimento </h3>
 <div style="display: inline_block">
@@ -35,6 +35,7 @@
   <a href="https://www.java.com/" target="_blank">
     <img align="center" alt="TobsBP-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   </a>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 <hr>
 
