@@ -8,7 +8,10 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,react,npm,postman,prisma,py,raspberrypi,ubuntu,vite,vitest,nextjs,mysql,mongodb,grafana,godot,git,docker,arduino)](https://skillicons.dev)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 ###
 
