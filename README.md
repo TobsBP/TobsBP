@@ -5,6 +5,7 @@
 <h2 align="left">Hi 👋 I’m Tobias. I’m a programmer and an undergraduate Software Engineering student at the National Institute of Telecommunications (Inatel).</h2>
 
 <div align="center">
+  <h2>📬 Contact me</h2>
   <a href="https://www.instagram.com/tobs_bueno/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
@@ -15,6 +16,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<hr/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,java,react,npm,postman,prisma,py" />
