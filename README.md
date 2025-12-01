@@ -2,24 +2,24 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
 <h2 align="left">Hi 👋 I’m Tobias. I’m a programmer and an undergraduate Software Engineering student at the National Institute of Telecommunications (Inatel).</h2>
 
-###
-
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,java,react,npm,postman,prisma,py,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,java,react,npm,postman,prisma,py" />
     <img src="https://skillicons.dev/icons?i=ubuntu,vite,vitest,nextjs,mysql,mongodb,grafana,godot,git,docker,arduino" /><br>
 </div>
 
-###
+<hr/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TobsBP/TobsBP/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TobsBP/TobsBP/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TobsBP/TobsBP/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <br clear="both">
 
